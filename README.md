@@ -1,3 +1,3 @@
 # Catatan
 
-Hanya catatan-catatan setup dan error.
+Just my personal notes, contains all about setup and error.
